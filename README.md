@@ -129,7 +129,7 @@ Analyzed device type impact on user behavior, conversions, and revenue generatio
 - Chrome dominates with 63% of browser traffic
 - Desktop identified as highest-quality device
 - Mobile represents largest growth opportunity
-- 
+
 Key Finding: Desktop conversion rate (1.70%) is 2.1x higher than mobile (0.82%).
 
 ![3](output/device_browser_analysis.png)
